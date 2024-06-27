@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ize_wrch</h1>
-<h3 align="center">I'm a beginner programmer.</h3>
+<h3 align="center">I'm a beginner Programmer.</h3>
 <h2 align="left">🤝 Hi,I'm studying IT faculty.</h2>
 <h2 align="left">💻🌐 I'm majoring in IT.</h2>
 <h2 align="left">💻⌨ My programming skills are basic.</h2>
