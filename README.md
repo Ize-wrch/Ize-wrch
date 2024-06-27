@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ize_wrch</h1>
 <h3 align="center">I'm a beginner programmer.</h3>
-
+<h2 align="left">🤝 Hi,I'm studying IT faculty.</h2>
+<h2 align="left">💻🌐 I'm majoring in IT.</h2>
+<h2 align="left">💻⌨ My programming skills are basic.</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/weerachet daothong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="weerachet daothong" height="30" width="40" /></a>
